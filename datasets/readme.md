@@ -12,7 +12,7 @@ There are six included datasets for six of the NOAA coral reef stations in Fiji,
 * Longitude of station
 * Sea Surface Temperature (in Celsius)
 * Hot Spots (magnitude of instantaneous heat stress, potentially resulting in coral bleaching. The scale ranges from 0 to 5 °C. HotSpot values of 1 °C or more indicate heat stress leading to coral bleaching)
-* Degree Heating Weeks (accumulated heat stress. The scale ranges from 0 to 20 °C-weeks. The DHW product accumulates the instantaneous bleaching heat stress, measured by CRW's Coral Bleaching HotSpot, during the most recent 12-week period. Significant coral bleaching usually occurs when the DHW value reaches 4 °C-weeks. By the time the DHW value reaches 8 °C-weeks, widespread bleaching is likely and significant mortality can be expected.)
+* Degree Heating Weeks (accumulated bleaching heat stress over a 12 week period. The scale ranges from 0 to 20 °C-weeks. Significant coral bleaching usually occurs when the DHW value reaches 4 °C-weeks. At 8 °C-weeks, widespread bleaching is likely and significant mortality can be expected.)
 * Bleaching Alert Area (measure of coral bleaching thermal stress as follows: 0-no stress, 1-bleaching watch, 2-bleaching warning, 3-bleaching alert lvl 1, 4-bleaching alert lvl 2)
 
 ### Plant Archaeology:
