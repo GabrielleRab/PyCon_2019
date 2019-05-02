@@ -1,0 +1,393 @@
+time,latitude,longitude,depth,mag,magType,rms,id,updated,place,depthError,magNst,locationSource,magSource
+1985-12-30T18:40:00.960Z,-33.034,-71.91,49.3,4.8,mb,1,usp0002pkv,2014-11-07T00:37:41.553Z,"offshore Valparaiso, Chile",10.1,4,us,us
+1985-12-27T22:41:51.240Z,-32.805,-72.472,33,4.6,mb,1.5,usp0002pgc,2014-11-07T00:37:40.859Z,"offshore Valparaiso, Chile",,1,us,us
+1985-12-26T03:59:18.870Z,-34.09,-70.062,6.1,5.3,mb,1.1,usp0002pe8,2014-11-07T00:37:40.232Z,"Region Metropolitana, Chile",4.5,21,us,us
+1985-12-25T05:17:10.680Z,-38.834,-74.518,33,4.4,mb,1.4,usp0002pd4,2014-11-07T00:37:40.077Z,"offshore Araucania, Chile",,4,us,us
+1985-12-19T13:58:39.740Z,-28.336,-71.012,33,5,mb,1.9,usp0002p31,2014-11-07T00:37:38.694Z,"Atacama, Chile",,1,us,us
+1985-12-18T12:35:05.750Z,-35.289,-71.136,94.4,4.6,mb,0.9,usp0002p1t,2014-11-07T00:37:38.481Z,"Maule, Chile",8.3,3,us,us
+1985-12-15T15:24:10.140Z,-32.894,-72.206,33,4.4,mb,0.9,usp0002nwm,2014-11-07T00:37:37.728Z,"offshore Valparaiso, Chile",,1,us,us
+1985-12-11T15:28:48.220Z,-32.916,-71.729,81.6,4.8,mb,1,usp0002ns6,2014-11-07T00:37:37.209Z,"offshore Valparaiso, Chile",7.1,4,us,us
+1985-12-05T16:40:31.750Z,-33.161,-72.41,21.5,4.1,mb,1.5,usp0002njy,2014-11-07T00:37:35.946Z,"offshore Valparaiso, Chile",8.8,1,us,us
+1985-12-01T05:06:37.190Z,-53.783,-59.402,10,4.9,mb,1.3,usp0002nec,2014-11-07T00:37:33.504Z,Falkland Islands region,,7,us,us
+1985-11-22T03:25:05.280Z,-32.821,-70.756,97.6,4.6,mb,0.8,usp0002n1u,2014-11-07T00:37:29.923Z,"Valparaiso, Chile",5.7,1,us,us
+1985-11-21T04:30:33.790Z,-32.852,-70.024,117.3,3.5,mb,0.4,usp0002n04,2014-11-07T00:37:29.610Z,"Mendoza, Argentina",6.3,1,us,us
+1985-11-19T23:16:54.150Z,-33.26,-72.351,33,4.6,mb,1,usp0002myt,2014-11-07T00:37:29.473Z,"offshore Valparaiso, Chile",,2,us,us
+1985-11-16T17:33:42.290Z,-37.624,-73.111,33,4.7,mb,1.3,usp0002muv,2014-11-07T00:37:28.973Z,"Bio-Bio, Chile",,1,us,us
+1985-11-14T23:33:24.810Z,-33.223,-70.145,23,5,mb,1.2,usp0002msn,2014-11-07T00:37:28.352Z,"Region Metropolitana, Chile",6.3,3,us,us
+1985-11-14T22:32:53.150Z,-32.377,-69.57,120.1,5.2,mb,1,usp0002msk,2014-11-07T00:37:28.301Z,"Mendoza, Argentina",6.4,4,us,us
+1985-11-11T01:27:51.460Z,-31.318,-72.007,31.1,4.9,mb,1.2,usp0002mnc,2014-11-07T00:37:27.777Z,"offshore Coquimbo, Chile",,5,us,us
+1985-11-09T22:13:27.060Z,-27.851,-66.75,175.4,5.3,mw,1.4,usp0002mm1,2016-11-09T23:55:38.325Z,"Catamarca, Argentina",,,us,hrv
+1985-11-06T16:08:54.420Z,-40.502,-74.91,33,5.3,mw,0.9,usp0002mgu,2016-11-09T23:54:09.912Z,"offshore Los Lagos, Chile",,,us,hrv
+1985-11-04T19:12:34.270Z,-35.237,-70.696,18.1,5.1,mb,1.2,usp0002mfa,2014-11-07T00:37:26.043Z,"Maule, Chile",4.6,10,us,us
+1985-11-04T18:21:41.560Z,-28.945,-70.124,121,4.5,mb,1.3,usp0002mf9,2014-11-07T00:37:26.033Z,"Atacama, Chile",12.5,1,us,us
+1985-11-04T11:31:11.050Z,-35.61,-72.933,33,4.7,mb,1.1,usp0002mex,2014-11-07T00:37:25.939Z,"offshore Maule, Chile",,4,us,us
+1985-11-01T11:34:46.870Z,-38.888,-72.658,33,4.8,mb,0.9,usp0002mc3,2014-11-07T00:37:24.116Z,"Araucania, Chile",,3,us,us
+1985-10-31T21:49:20.220Z,-28.692,-63.171,596,6.5,mw,0.9,usp0002mbn,2016-11-10T00:50:32.558Z,"Santiago Del Estero, Argentina",,,us,nc
+1985-10-31T16:06:59.870Z,-34.483,-72.464,33,4.6,mb,0.5,usp0002mba,2014-11-07T00:37:22.208Z,"offshore Libertador O'Higgins, Chile",,2,us,us
+1985-10-30T03:52:30.960Z,-33.138,-67.78,184.3,4.4,mb,1,usp0002m9w,2014-11-07T00:37:22.055Z,"Mendoza, Argentina",10.1,4,us,us
+1985-10-25T01:22:27.940Z,-27.501,-67.185,112.1,5.1,mb,1.2,usp0002m3u,2014-11-07T00:37:21.108Z,"Catamarca, Argentina",5.9,19,us,us
+1985-10-24T01:48:55.950Z,-31.386,-68.605,109.7,5.6,mw,1.1,usp0002m2u,2016-11-09T23:47:53.609Z,"San Juan, Argentina",,,us,hrv
+1985-10-21T13:12:32.530Z,-33.135,-72.112,33,4.4,mb,0.6,usp0002m03,2014-11-07T00:37:20.331Z,"offshore Valparaiso, Chile",,1,us,us
+1985-10-15T19:08:49.150Z,-28.409,-67.448,112.6,4.7,mb,1.2,usp0002ktq,2014-11-07T00:37:19.648Z,"La Rioja, Argentina",8.5,6,us,us
+1985-10-14T18:38:48.980Z,-33.433,-72.119,33,4.4,mb,1.3,usp0002ksw,2014-11-07T00:37:19.577Z,"offshore Valparaiso, Chile",,3,us,us
+1985-10-12T11:08:41.960Z,-33.786,-72.222,33,3.5,mb,0.8,usp0002kqp,2014-11-07T00:37:19.156Z,"offshore Valparaiso, Chile",,1,us,us
+1985-10-12T10:57:49.800Z,-33.828,-72.1,33,4.3,mb,1,usp0002kqn,2014-11-07T00:37:19.153Z,"offshore Valparaiso, Chile",,2,us,us
+1985-10-12T08:11:13.220Z,-33.87,-72.118,33,3.4,mb,0.8,usp0002kqg,2014-11-07T00:37:19.136Z,"offshore Valparaiso, Chile",,1,us,us
+1985-10-12T02:10:05.300Z,-33.926,-72.027,33,4.5,mb,1.1,usp0002kq8,2014-11-07T00:37:19.063Z,"offshore Libertador O'Higgins, Chile",,2,us,us
+1985-10-10T06:46:19.300Z,-31.703,-71.824,33,4.8,mb,1.1,usp0002knj,2014-11-07T00:37:18.822Z,"offshore Coquimbo, Chile",,3,us,us
+1985-10-09T13:42:52.270Z,-34.12,-71.449,54.1,5.1,mb,1.1,usp0002kmt,2014-11-07T00:37:18.736Z,"Region Metropolitana, Chile",6.8,10,us,us
+1985-10-02T08:03:29.140Z,-39.992,-70.781,33,4.6,mb,1.2,usp0002kcm,2014-11-07T00:37:16.314Z,"Neuquen, Argentina",,2,us,us
+1985-09-27T10:17:26.720Z,-34.043,-72.097,33,5.3,ms,1.2,usp0002k6n,2014-11-07T00:37:12.883Z,"offshore Libertador O'Higgins, Chile",,1,us,us
+1985-09-26T08:33:27.180Z,-33.623,-71.598,47,5.7,ms,1.1,usp0002k4w,2015-05-13T18:53:23.000Z,"Valparaiso, Chile",,1,us,us
+1985-09-23T06:37:59.910Z,-39.602,-73.547,33,4.1,mb,0.9,usp0002k16,2014-11-07T00:37:12.158Z,"offshore Los Lagos, Chile",,1,us,us
+1985-09-21T02:52:59.890Z,-33.376,-72,33,3.9,mb,1.4,usp0002jyq,2014-11-07T00:37:11.634Z,"offshore Valparaiso, Chile",,1,us,us
+1985-09-19T10:54:48.270Z,-28.13,-70.745,53.8,5.1,mb,1.2,usp0002jwd,2014-11-07T00:37:10.996Z,"Atacama, Chile",,15,us,us
+1985-09-18T06:56:12.320Z,-39.354,-71.411,33,4.9,mb,1.1,usp0002jvg,2014-11-07T00:37:10.879Z,"Neuquen, Argentina",,10,us,us
+1985-09-17T19:57:08.430Z,-28.096,-66.871,165.6,5,mb,1.3,usp0002jux,2014-11-07T00:37:10.783Z,"Catamarca, Argentina",5.9,11,us,us
+1985-09-13T03:54:21.450Z,-33.287,-72.543,33,3.2,mb,0.8,usp0002jqj,2014-11-07T00:37:09.965Z,"offshore Valparaiso, Chile",,1,us,us
+1985-09-13T01:15:18.500Z,-28.259,-69.658,124.7,4.2,mb,1.3,usp0002jqh,2014-11-07T00:37:09.960Z,"Atacama, Chile",12.3,1,us,us
+1985-09-12T15:18:57.560Z,-33.612,-72.523,33,4.4,mb,1.4,usp0002jq3,2014-11-07T00:37:09.911Z,"offshore Valparaiso, Chile",,5,us,us
+1985-09-10T16:52:36.450Z,-35.57,-71.168,119.5,4.5,mb,1,usp0002jm5,2014-11-07T00:37:09.017Z,"Maule, Chile",8.1,3,us,us
+1985-08-26T01:18:06.570Z,-33.258,-72.384,33,4.2,mb,1,usp0002j5a,2014-11-07T00:37:03.408Z,"offshore Valparaiso, Chile",,2,us,us
+1985-08-25T12:39:45.330Z,-34.219,-72.418,33,3.3,mb,0.6,usp0002j4r,2014-11-07T00:37:03.364Z,"offshore Libertador O'Higgins, Chile",,1,us,us
+1985-08-25T09:30:38.430Z,-34.585,-72.256,33,4.3,mb,1.2,usp0002j4g,2014-11-07T00:37:03.323Z,"offshore Libertador O'Higgins, Chile",,2,us,us
+1985-08-25T03:22:08.710Z,-33.451,-72.109,33,4.6,mb,1.4,usp0002j43,2014-11-07T00:37:03.280Z,"offshore Valparaiso, Chile",,4,us,us
+1985-08-24T13:57:54.760Z,-33.626,-70.149,115.3,4.5,mb,1.2,usp0002j3g,2014-11-07T00:37:03.238Z,"Region Metropolitana, Chile",4.1,3,us,us
+1985-08-23T18:19:15.990Z,-33.372,-72.459,33,4.8,mb,1.3,usp0002j2q,2014-11-07T00:37:03.121Z,"offshore Valparaiso, Chile",,4,us,us
+1985-08-23T01:08:56.700Z,-31.359,-68.832,120.5,4.8,mb,1.1,usp0002j1a,2014-11-07T00:37:02.558Z,"San Juan, Argentina",5,2,us,us
+1985-08-22T06:05:45.630Z,-38.921,-75.025,33,3.9,mb,0.4,usp0002j06,2014-11-07T00:37:02.346Z,"off the coast of Araucania, Chile",,2,us,us
+1985-08-20T12:21:05.700Z,-33.775,-72.231,33,5.2,mw,1.1,usp0002hyb,2016-11-09T23:17:18.043Z,"offshore Valparaiso, Chile",,,us,hrv
+1985-08-20T01:29:18.070Z,-31.358,-68.779,111.9,4.5,mb,1,usp0002hxs,2014-11-07T00:37:02.008Z,"San Juan, Argentina",,5,us,us
+1985-08-16T14:45:11.110Z,-33.365,-72.441,33,4.2,mb,1.5,usp0002hu1,2014-11-07T00:37:01.636Z,"offshore Valparaiso, Chile",,2,us,us
+1985-08-15T07:15:36.110Z,-34.437,-72.265,33,4.3,mb,1.2,usp0002hrx,2014-11-07T00:37:01.085Z,"offshore Libertador O'Higgins, Chile",,1,us,us
+1985-08-14T01:28:29.150Z,-33.426,-71.944,33,4.4,mb,1.6,usp0002hq9,2014-11-07T00:37:00.754Z,"offshore Valparaiso, Chile",,3,us,us
+1985-08-13T12:01:07.930Z,-38.362,-73.408,33,4.4,mb,1.1,usp0002hpk,2014-11-07T00:37:00.665Z,"Bio-Bio, Chile",,2,us,us
+1985-08-12T02:55:12.770Z,-38.407,-73.59,33,4.4,mb,0.9,usp0002hms,2014-11-07T00:37:00.332Z,"offshore Araucania, Chile",,1,us,us
+1985-08-12T02:49:06.490Z,-44.446,-75.322,33,4.6,mb,1.5,usp0002hmq,2014-11-07T00:37:00.219Z,"off the coast of Aisen, Chile",,3,us,us
+1985-08-12T02:11:09.610Z,-38.628,-73.679,33,4.5,mb,1.1,usp0002hmm,2014-11-07T00:37:00.207Z,"offshore Araucania, Chile",,7,us,us
+1985-08-12T01:31:50.520Z,-38.335,-73.639,33,4.6,mb,0.9,usp0002hmh,2014-11-07T00:37:00.201Z,"offshore Araucania, Chile",,5,us,us
+1985-08-12T00:04:51.450Z,-38.378,-73.495,33,6.2,mw,1.2,usp0002hmc,2017-04-26T17:39:07.675Z,"Araucania, Chile",,,us,hrv
+1985-08-09T05:51:23.230Z,-31.619,-67.056,136.4,4.5,mb,1,usp0002hhd,2014-11-07T00:36:59.067Z,"San Juan, Argentina",4.2,7,us,us
+1985-08-09T00:57:49.730Z,-31.555,-67.092,134,5,mb,1.2,usp0002hh7,2014-11-07T00:36:59.042Z,"San Juan, Argentina",4.5,12,us,us
+1985-08-08T07:20:39.620Z,-36.096,-74.342,33,4.5,mb,1.3,usp0002hgg,2014-11-07T00:36:58.852Z,"off the coast of Bio-Bio, Chile",,4,us,us
+1985-08-08T06:06:41.350Z,-33.109,-72.073,33,4.4,mb,1.2,usp0002hgf,2014-11-07T00:36:58.847Z,"offshore Valparaiso, Chile",,6,us,us
+1985-08-07T11:10:28.740Z,-33.087,-72.043,33,4.5,mb,1.2,usp0002hfk,2014-11-07T00:36:58.674Z,"offshore Valparaiso, Chile",,3,us,us
+1985-08-05T10:27:43.360Z,-39.691,-73.752,33,4.6,mb,1.2,usp0002hdh,2014-11-07T00:36:58.063Z,"offshore Los Lagos, Chile",,2,us,us
+1985-08-04T04:54:02.540Z,-44.885,-75.679,27.6,5.9,mw,1.3,usp0002hbt,2016-11-09T23:09:10.492Z,"off the coast of Aisen, Chile",,,us,hrv
+1985-07-30T12:56:20.610Z,-31.104,-67.816,10,4.2,mb,0.4,usp0002h7k,2014-11-07T00:36:54.198Z,"San Juan, Argentina",,1,us,us
+1985-07-25T09:44:18.730Z,-32.153,-70.556,123.6,3.7,mb,1.2,usp0002h2q,2014-11-07T00:36:53.515Z,"Coquimbo, Chile",20.5,1,us,us
+1985-07-23T04:47:29.290Z,-27.913,-67.341,155.8,4.6,mb,1.1,usp0002h0x,2014-11-07T00:36:53.310Z,"Catamarca, Argentina",5,6,us,us
+1985-07-20T01:22:03.190Z,-33.445,-72.66,33,4.6,mb,1.6,usp0002gxh,2014-11-07T00:36:52.858Z,"offshore Valparaiso, Chile",,3,us,us
+1985-07-17T23:04:47.710Z,-33.071,-71.938,33,5.1,mb,1.3,usp0002gvj,2014-11-07T00:36:52.471Z,"offshore Valparaiso, Chile",,9,us,us
+1985-07-17T13:53:00.130Z,-32.76,-71.718,33,5.5,mw,1.4,usp0002gv7,2016-11-09T23:00:21.438Z,"offshore Valparaiso, Chile",,,us,hrv
+1985-07-17T13:37:26.360Z,-32.826,-71.947,33,4.5,mb,1.2,usp0002gv6,2014-11-07T00:36:52.393Z,"offshore Valparaiso, Chile",,5,us,us
+1985-07-16T17:01:24.910Z,-30.938,-71.35,68.4,4.6,mb,1.2,usp0002guf,2014-11-07T00:36:52.139Z,"Coquimbo, Chile",6.4,6,us,us
+1985-07-14T18:20:22.790Z,-33.297,-72.418,33,4.9,ms,1.2,usp0002gss,2014-11-07T00:36:51.974Z,"offshore Valparaiso, Chile",,2,us,us
+1985-07-12T16:14:16.810Z,-33.54,-72.363,33,4.5,mb,1.1,usp0002gqw,2014-11-07T00:36:51.735Z,"offshore Valparaiso, Chile",,1,us,us
+1985-07-11T21:02:12.720Z,-33.026,-72.424,33,3.5,mb,1.3,usp0002gpz,2014-11-07T00:36:51.655Z,"offshore Valparaiso, Chile",,1,us,us
+1985-07-11T20:31:13.090Z,-32.981,-72.114,28.5,5.5,mw,1.3,usp0002gpy,2016-11-09T22:57:47.528Z,"offshore Valparaiso, Chile",,,us,hrv
+1985-07-10T17:23:25.860Z,-27.762,-66.727,167.1,4.8,mb,1.2,usp0002gnu,2014-11-07T00:36:51.500Z,"Catamarca, Argentina",5.3,16,us,us
+1985-07-09T07:36:50.350Z,-32.867,-71.98,44.7,4.8,mb,1,usp0002gmp,2014-11-07T00:36:51.348Z,"offshore Valparaiso, Chile",11.4,7,us,us
+1985-07-09T07:33:15.700Z,-32.931,-72.197,33,4.4,mb,1.3,usp0002gmn,2014-11-07T00:36:51.343Z,"offshore Valparaiso, Chile",,7,us,us
+1985-07-07T20:32:51.410Z,-33.115,-71.828,33,4.5,mb,1.1,usp0002gjy,2014-11-07T00:36:51.069Z,"offshore Valparaiso, Chile",,4,us,us
+1985-07-07T18:48:11.260Z,-32.991,-72.211,10,4.6,mb,0.9,usp0002gjw,2014-11-07T00:36:51.061Z,"offshore Valparaiso, Chile",,1,us,us
+1985-07-07T13:05:08.970Z,-33.012,-72.369,10,4.7,ms,1.2,usp0002gje,2014-11-07T00:36:50.990Z,"offshore Valparaiso, Chile",,1,us,us
+1985-07-07T11:25:11.750Z,-32.951,-72.072,31.4,6,mw,1,usp0002gja,2016-11-09T22:55:57.198Z,"offshore Valparaiso, Chile",,,us,hrv
+1985-07-06T20:56:02.350Z,-33.409,-72.33,28.8,4.7,mb,1.2,usp0002ghj,2014-11-07T00:36:50.847Z,"offshore Valparaiso, Chile",5.7,3,us,us
+1985-07-06T14:38:22.860Z,-33.463,-72.303,33,4.8,ms,1.1,usp0002gh2,2014-11-07T00:36:50.791Z,"offshore Valparaiso, Chile",,1,us,us
+1985-07-06T11:23:06.530Z,-33.504,-72.307,33,4.3,mb,1.1,usp0002ggv,2014-11-07T00:36:50.734Z,"offshore Valparaiso, Chile",,3,us,us
+1985-07-06T08:33:06.850Z,-33.397,-72.151,40.2,5.5,mw,1.1,usp0002ggm,2016-11-09T22:55:32.059Z,"offshore Valparaiso, Chile",8,,us,hrv
+1985-07-05T15:37:30.590Z,-33.407,-72.323,33,4.5,mb,1.1,usp0002gfd,2014-11-07T00:36:50.389Z,"offshore Valparaiso, Chile",,3,us,us
+1985-07-05T15:22:37.940Z,-33.441,-72.214,33,5.5,mw,1.2,usp0002gfb,2016-11-09T22:55:02.426Z,"offshore Valparaiso, Chile",,,us,hrv
+1985-07-02T07:30:46.320Z,-29.124,-69.458,110.4,4.8,mb,1.1,usp0002gb7,2014-11-07T00:36:48.591Z,"San Juan, Argentina",8.2,5,us,us
+1985-07-01T18:49:07.780Z,-27.902,-69.396,102.3,5,mb,1.5,usp0002gaq,2014-11-07T00:36:48.367Z,"Atacama, Chile",9.7,2,us,us
+1985-06-25T07:20:55.210Z,-33.416,-71.938,33,5.1,mb,1.1,usp0002g4p,2014-11-07T00:36:45.501Z,"offshore Valparaiso, Chile",,18,us,us
+1985-06-24T11:37:30.850Z,-33.109,-71.715,33,4.5,mb,1.1,usp0002g3u,2014-11-07T00:36:45.327Z,"Valparaiso, Chile",,1,us,us
+1985-06-23T10:09:38.760Z,-33.711,-70.765,98.7,4.9,mb,1.4,usp0002g2v,2014-11-07T00:36:45.169Z,"Region Metropolitana, Chile",11.8,1,us,us
+1985-06-20T16:58:03.610Z,-36.554,-73.108,33,4.7,mb,0.9,usp0002g0j,2014-11-07T00:36:44.538Z,"offshore Bio-Bio, Chile",,5,us,us
+1985-06-18T17:48:09.830Z,-33.641,-72.269,33,4.4,mb,0.9,usp0002fyq,2014-11-07T00:36:44.373Z,"offshore Valparaiso, Chile",,1,us,us
+1985-06-14T19:53:37.820Z,-29.149,-69.716,100.6,5,mb,1.3,usp0002fuz,2014-11-07T00:36:43.876Z,"San Juan, Argentina",7.3,7,us,us
+1985-06-14T13:14:14.890Z,-40.767,-74.953,33,5.4,mw,1,usp0002fus,2016-11-09T22:45:32.391Z,"offshore Los Lagos, Chile",,,us,hrv
+1985-06-13T01:58:09.840Z,-36.536,-72.339,54.5,5,mb,1,usp0002fss,2014-11-07T00:36:43.648Z,"Bio-Bio, Chile",,4,us,us
+1985-06-11T11:12:28.720Z,-32.628,-71.86,33,5.5,mw,1.3,usp0002frf,2016-11-09T22:44:01.727Z,"offshore Valparaiso, Chile",,,us,hrv
+1985-06-11T02:03:20.180Z,-44.968,-80.222,10,5,mb,1.2,usp0002fr5,2014-11-07T00:36:43.332Z,"off the coast of Aisen, Chile",,5,us,us
+1985-06-11T01:29:21.220Z,-44.642,-80.716,10,4.8,mb,1.5,usp0002fr4,2014-11-07T00:36:43.330Z,"off the coast of Aisen, Chile",,4,us,us
+1985-06-10T15:37:00.990Z,-27.958,-66.995,151.4,6.4,mw,1.1,usp0002fqu,2016-11-09T22:43:35.423Z,"Catamarca, Argentina",2.5,,us,hrv
+1985-06-09T19:20:18.610Z,-33.396,-72.273,27.1,3.9,mb,1.2,usp0002fpw,2014-11-07T00:36:43.022Z,"offshore Valparaiso, Chile",6.9,1,us,us
+1985-06-09T18:46:31.100Z,-33.242,-71.89,37.3,5.3,mw,1.1,usp0002fpr,2016-11-09T22:42:56.476Z,"offshore Valparaiso, Chile",9.3,,us,hrv
+1985-06-08T16:00:44.340Z,-33.296,-72.074,33,4.6,mb,1.3,usp0002fnk,2014-11-07T00:36:42.884Z,"offshore Valparaiso, Chile",,7,us,us
+1985-06-07T07:32:37.350Z,-32.56,-69.73,128.3,3.3,mb,1.1,usp0002fm7,2014-11-07T00:36:42.687Z,"Mendoza, Argentina",10.1,1,us,us
+1985-06-06T08:44:48.850Z,-37.494,-73.086,33,4,ms,1,usp0002fk6,2014-11-07T00:36:42.482Z,"Bio-Bio, Chile",,1,us,us
+1985-06-05T20:49:32.290Z,-35.958,-71.396,66.8,3.9,mb,0.5,usp0002fjq,2014-11-07T00:36:42.291Z,"Maule, Chile",16.5,1,us,us
+1985-06-05T15:29:11.320Z,-37.92,-73.317,33,4.2,mb,1,usp0002fjh,2014-11-07T00:36:42.268Z,"Bio-Bio, Chile",,1,us,us
+1985-06-05T01:15:26.480Z,-33.67,-72.58,33,3.9,mb,1.1,usp0002fht,2014-11-07T00:36:42.033Z,"offshore Valparaiso, Chile",,1,us,us
+1985-06-03T17:56:51.000Z,-27.99,-71.096,33,5.4,mb,1.3,usp0002fg2,2014-11-07T00:36:41.457Z,"Atacama, Chile",,8,us,us
+1985-06-02T17:15:03.850Z,-37.769,-73.603,33,4.5,mb,1.1,usp0002ff0,2014-11-07T00:36:40.904Z,"Bio-Bio, Chile",,2,us,us
+1985-06-02T16:26:58.480Z,-37.728,-73.653,33,5.9,mw,1.1,usp0002few,2016-11-09T22:39:56.405Z,"Bio-Bio, Chile",,,us,hrv
+1985-06-01T13:05:29.320Z,-33.213,-71.998,33,3.5,mb,1.2,usp0002fdq,2014-11-07T00:36:39.830Z,"offshore Valparaiso, Chile",,1,us,us
+1985-05-29T16:45:15.640Z,-34.055,-72.631,33,4.6,mb,1.3,usp0002fae,2014-11-07T00:36:37.355Z,"offshore Libertador O'Higgins, Chile",,1,us,us
+1985-05-27T12:43:41.450Z,-32.743,-71.943,33,4.5,mb,1.4,usp0002f88,2014-11-07T00:36:37.121Z,"offshore Valparaiso, Chile",,1,us,us
+1985-05-24T10:26:15.610Z,-33.33,-72.208,55.5,4.6,mb,1.2,usp0002f4z,2014-11-07T00:36:36.744Z,"offshore Valparaiso, Chile",13.2,4,us,us
+1985-05-23T19:32:29.370Z,-33.39,-72.327,33,4.5,mb,1.1,usp0002f4f,2014-11-07T00:36:36.701Z,"offshore Valparaiso, Chile",,1,us,us
+1985-05-23T19:24:16.740Z,-28.639,-67.23,141.3,4.7,mb,1.5,usp0002f4e,2014-11-07T00:36:36.697Z,"La Rioja, Argentina",7,4,us,us
+1985-05-23T10:18:24.250Z,-36.264,-73.141,33,4.5,mb,0.9,usp0002f3t,2014-11-07T00:36:36.603Z,"offshore Bio-Bio, Chile",,5,us,us
+1985-05-22T05:01:05.190Z,-26.547,-64.706,41.3,4.7,mb,1.3,usp0002f2m,2014-11-07T00:36:36.500Z,"Tucuman, Argentina",9.2,13,us,us
+1985-05-21T06:24:29.810Z,-33.608,-72.026,33,4.6,mb,1.2,usp0002f1f,2014-11-07T00:36:36.365Z,"offshore Valparaiso, Chile",,6,us,us
+1985-05-20T10:22:46.030Z,-33.494,-72.184,33,4.9,mb,1.3,usp0002f0a,2014-11-07T00:36:36.242Z,"offshore Valparaiso, Chile",,17,us,us
+1985-05-19T18:09:15.600Z,-30.253,-71.329,39.1,6.3,mw,1,usp0002ezu,2017-04-26T17:38:56.656Z,"Coquimbo, Chile",,,us,nc
+1985-05-19T15:20:42.490Z,-33.836,-72.401,33,4.6,mb,1.1,usp0002ezq,2014-11-07T00:36:36.143Z,"offshore Libertador O'Higgins, Chile",,7,us,us
+1985-05-19T07:23:06.210Z,-33.989,-72.358,33,4.9,mb,0.8,usp0002ez7,2014-11-07T00:36:36.060Z,"offshore Libertador O'Higgins, Chile",,10,us,us
+1985-05-19T07:07:46.190Z,-33.894,-72.287,33,5.6,mw,1.2,usp0002ez5,2016-11-09T22:33:26.715Z,"offshore Libertador O'Higgins, Chile",,,us,hrv
+1985-05-19T06:43:58.350Z,-33.984,-72.381,33,4.5,mb,1.3,usp0002ez3,2014-11-07T00:36:36.040Z,"offshore Libertador O'Higgins, Chile",,4,us,us
+1985-05-18T07:26:00.230Z,-34.286,-73.203,33,4.7,mb,1.5,usp0002ey0,2014-11-07T00:36:35.909Z,"off the coast of Libertador O'Higgins, Chile",,4,us,us
+1985-05-17T02:44:07.890Z,-34.273,-72.473,33,5.4,mw,1.1,usp0002ewm,2016-11-09T22:32:32.960Z,"offshore Libertador O'Higgins, Chile",,,us,hrv
+1985-05-14T18:50:34.980Z,-33.074,-72.078,33,4.9,mb,1.3,usp0002eua,2014-11-07T00:36:35.058Z,"offshore Valparaiso, Chile",,10,us,us
+1985-05-14T02:54:23.410Z,-27.764,-67.422,158,3.8,mb,1.1,usp0002eta,2014-11-07T00:36:34.903Z,"Catamarca, Argentina",11.2,1,us,us
+1985-05-13T09:21:41.220Z,-32.638,-71.024,54.9,4.7,mb,0.9,usp0002es0,2014-11-07T00:36:34.790Z,"Valparaiso, Chile",,9,us,us
+1985-05-12T07:31:19.640Z,-33.631,-72.051,33,4.7,mb,1.1,usp0002eqn,2014-11-07T00:36:34.618Z,"offshore Valparaiso, Chile",,6,us,us
+1985-05-07T11:14:12.160Z,-32.797,-71.834,45.5,4.8,mb,1,usp0002ehk,2014-11-07T00:36:33.550Z,"offshore Valparaiso, Chile",8.5,9,us,us
+1985-05-03T14:04:18.570Z,-34.522,-72.494,33,4.1,mb,1.4,usp0002ee6,2014-11-07T00:36:32.576Z,"offshore Libertador O'Higgins, Chile",,1,us,us
+1985-04-30T10:03:11.580Z,-32.175,-71.581,33,4.3,mb,1.4,usp0002eae,2014-11-07T00:36:29.283Z,"offshore Valparaiso, Chile",,1,us,us
+1985-04-28T08:30:29.050Z,-39.728,-75.664,10,6,mw,1.1,usp0002e8b,2016-11-09T22:24:10.695Z,"off the coast of Los Lagos, Chile",,,us,nc
+1985-04-28T02:53:41.530Z,-32.998,-71.766,33,5.6,mw,1.3,usp0002e81,2016-11-09T22:24:10.181Z,"offshore Valparaiso, Chile",,,us,hrv
+1985-04-22T07:14:38.740Z,-33.513,-72.435,33,4.7,mb,1.3,usp0002e15,2014-11-07T00:36:27.789Z,"offshore Valparaiso, Chile",,3,us,us
+1985-04-22T06:53:40.420Z,-33.515,-72.25,33,4.3,mb,1.3,usp0002e13,2014-11-07T00:36:27.785Z,"offshore Valparaiso, Chile",,1,us,us
+1985-04-22T04:19:24.850Z,-33.455,-72.244,33,4.9,mb,1.1,usp0002e0w,2014-11-07T00:36:27.770Z,"offshore Valparaiso, Chile",,13,us,us
+1985-04-21T16:29:39.720Z,-33.803,-71.997,33,4.3,mb,1.5,usp0002e08,2014-11-07T00:36:27.715Z,"offshore Valparaiso, Chile",,1,us,us
+1985-04-21T15:17:42.110Z,-33.658,-72.3,33,4.6,mb,1.4,usp0002e03,2014-11-07T00:36:27.688Z,"offshore Valparaiso, Chile",,2,us,us
+1985-04-20T12:31:50.770Z,-33.161,-72.419,33,4.5,mb,1,usp0002dyv,2014-11-07T00:36:27.476Z,"offshore Valparaiso, Chile",,7,us,us
+1985-04-18T12:02:03.210Z,-33.947,-72.415,33,4.6,mb,1.1,usp0002dx4,2014-11-07T00:36:27.239Z,"offshore Libertador O'Higgins, Chile",,2,us,us
+1985-04-16T21:30:02.860Z,-33.181,-72.414,33,4.6,mb,1.4,usp0002dvv,2014-11-07T00:36:27.037Z,"offshore Valparaiso, Chile",,1,us,us
+1985-04-16T04:00:45.090Z,-33.124,-72.356,33,4.8,mb,1.1,usp0002duy,2014-11-07T00:36:26.914Z,"offshore Valparaiso, Chile",,7,us,us
+1985-04-16T03:31:54.310Z,-33.042,-72.205,33,4.8,mb,1.2,usp0002dux,2014-11-07T00:36:26.908Z,"offshore Valparaiso, Chile",,14,us,us
+1985-04-15T20:42:11.120Z,-34.019,-72.524,33,4.2,mb,1.2,usp0002dup,2014-11-07T00:36:26.886Z,"offshore Libertador O'Higgins, Chile",,3,us,us
+1985-04-15T11:56:42.760Z,-34.048,-72.156,33,4.5,mb,1.5,usp0002du9,2014-11-07T00:36:26.860Z,"offshore Libertador O'Higgins, Chile",,2,us,us
+1985-04-15T06:31:05.320Z,-33.641,-72.278,33,4.5,mb,1.5,usp0002dty,2014-11-07T00:36:26.833Z,"offshore Valparaiso, Chile",,5,us,us
+1985-04-15T04:41:50.930Z,-33.491,-71.96,33,5.6,mw,1.1,usp0002dtw,2016-11-09T22:18:24.121Z,"offshore Valparaiso, Chile",,,us,hrv
+1985-04-14T09:30:57.430Z,-33.957,-72.02,33,4.8,mb,1.2,usp0002dt0,2014-11-07T00:36:26.741Z,"offshore Libertador O'Higgins, Chile",,15,us,us
+1985-04-13T16:54:26.840Z,-28.853,-70.794,33,4.6,mb,0.7,usp0002dsg,2014-11-07T00:36:26.699Z,"Atacama, Chile",,1,us,us
+1985-04-13T00:34:20.250Z,-33.555,-72.953,33,3.5,mb,1.4,usp0002drj,2014-11-07T00:36:26.544Z,"off the coast of Valparaiso, Chile",,1,us,us
+1985-04-12T22:45:28.520Z,-34.005,-72.308,33,3.3,mb,1.4,usp0002drh,2014-11-07T00:36:26.542Z,"offshore Libertador O'Higgins, Chile",,1,us,us
+1985-04-12T04:02:50.910Z,-32.957,-72.256,33,3.3,mb,0.6,usp0002dqu,2014-11-07T00:36:26.413Z,"offshore Valparaiso, Chile",,1,us,us
+1985-04-12T01:53:22.210Z,-33.96,-72.262,33,3.2,mb,1.2,usp0002dqr,2014-11-07T00:36:26.401Z,"offshore Libertador O'Higgins, Chile",,1,us,us
+1985-04-11T12:44:45.350Z,-33.948,-72.193,33,4,mb,1.7,usp0002dq3,2014-11-07T00:36:26.347Z,"offshore Libertador O'Higgins, Chile",,1,us,us
+1985-04-11T11:14:40.420Z,-33.456,-71.624,33,3,mb,1.6,usp0002dpx,2014-11-07T00:36:26.306Z,"Valparaiso, Chile",,1,us,us
+1985-04-10T12:26:00.460Z,-38.26,-72.101,33,4.5,mb,1.3,usp0002dnu,2014-11-07T00:36:26.125Z,"Araucania, Chile",,2,us,us
+1985-04-10T02:34:54.400Z,-33.949,-72.291,33,4.2,mb,1.5,usp0002dnc,2014-11-07T00:36:26.084Z,"offshore Libertador O'Higgins, Chile",,2,us,us
+1985-04-09T09:42:35.960Z,-36.996,-70.995,10,4.3,mb,1.3,usp0002dmm,2014-11-07T00:36:26.011Z,"Neuquen, Argentina",,1,us,us
+1985-04-09T01:56:59.480Z,-34.131,-71.618,37.8,7.2,mw,1.1,usp0002dm4,2017-04-26T17:38:47.999Z,"Libertador General Bernardo O'Higgins, Chile",,,us,nc
+1985-04-08T23:27:25.230Z,-33.025,-71.974,33,5,mb,1,usp0002dkz,2014-11-07T00:36:25.846Z,"offshore Valparaiso, Chile",,8,us,us
+1985-04-03T14:08:37.750Z,-32.561,-71.951,33,4.7,mb,1.2,usp0002de7,2014-11-07T00:36:24.087Z,"offshore Valparaiso, Chile",,2,us,us
+1985-04-03T13:06:20.260Z,-32.584,-71.656,33,6.2,mw,1,usp0002de6,2016-11-09T22:13:25.458Z,"offshore Valparaiso, Chile",,,us,nc
+1985-04-03T03:57:34.190Z,-33.142,-72.075,33,4.9,mb,1,usp0002dds,2014-11-07T00:36:23.849Z,"offshore Valparaiso, Chile",,4,us,us
+1985-04-02T02:35:28.850Z,-28.806,-69.165,106.9,5.1,mw,1.2,usp0002dcs,2016-11-09T22:12:57.404Z,"San Juan, Argentina",5.8,,us,hrv
+1985-03-31T08:24:59.040Z,-33.495,-72.377,33,4.2,mb,1.2,usp0002dbb,2014-11-07T00:36:21.064Z,"offshore Valparaiso, Chile",,1,us,us
+1985-03-30T13:47:28.340Z,-45.533,-76.369,33,5.4,mw,1,usp0002dam,2016-11-09T22:11:50.951Z,"off the coast of Aisen, Chile",,,us,hrv
+1985-03-30T13:08:00.500Z,-45.695,-78.444,10,5.2,mb,0.5,usp0002daj,2014-11-07T00:36:20.998Z,"off the coast of Aisen, Chile",,5,us,us
+1985-03-30T12:10:31.350Z,-33.239,-72.284,33,4.7,mb,1.3,usp0002dah,2014-11-07T00:36:20.996Z,"offshore Valparaiso, Chile",,2,us,us
+1985-03-29T05:45:32.980Z,-31.311,-68.917,110.8,5.4,mb,1,usp0002d9k,2014-11-07T00:36:20.929Z,"San Juan, Argentina",3,22,us,us
+1985-03-29T02:51:35.410Z,-34.249,-72.107,33,4.6,mb,1.1,usp0002d9e,2014-11-07T00:36:20.901Z,"offshore Libertador O'Higgins, Chile",,1,us,us
+1985-03-28T04:43:28.550Z,-34.304,-72.443,33,4.7,mb,1.1,usp0002d8u,2014-11-07T00:36:20.464Z,"offshore Libertador O'Higgins, Chile",,6,us,us
+1985-03-26T07:03:03.740Z,-34.106,-72.228,10,4.2,mb,1.3,usp0002d7g,2014-11-07T00:36:20.301Z,"offshore Libertador O'Higgins, Chile",,1,us,us
+1985-03-25T17:00:21.250Z,-34.288,-72.644,33,4.5,mb,1.3,usp0002d6y,2014-11-07T00:36:20.236Z,"offshore Libertador O'Higgins, Chile",,1,us,us
+1985-03-25T05:53:17.360Z,-34.182,-72.453,33,4.7,mb,1.2,usp0002d6d,2014-11-07T00:36:20.143Z,"offshore Libertador O'Higgins, Chile",,3,us,us
+1985-03-25T05:14:35.140Z,-34.254,-72.185,45,6.5,mw,1.1,usp0002d6c,2017-04-26T17:38:45.538Z,"offshore Libertador O'Higgins, Chile",3.4,,us,nc
+1985-03-24T16:16:32.500Z,-34.332,-72.262,26.2,5.7,mw,1.1,usp0002d5w,2016-11-09T22:09:07.979Z,"offshore Libertador O'Higgins, Chile",,,us,hrv
+1985-03-23T14:36:59.540Z,-33.249,-72.201,52.6,5.6,mw,1,usp0002d53,2016-11-09T22:08:37.601Z,"offshore Valparaiso, Chile",8.6,,us,hrv
+1985-03-23T13:45:22.510Z,-34.207,-72.02,57,5.7,mw,1.1,usp0002d52,2016-11-09T22:08:37.090Z,"offshore Libertador O'Higgins, Chile",9.2,,us,hrv
+1985-03-22T21:20:33.030Z,-33.513,-72.659,33,3.5,mb,1.1,usp0002d4m,2014-11-07T00:36:19.869Z,"offshore Valparaiso, Chile",,1,us,us
+1985-03-22T14:32:24.230Z,-34.396,-72.111,33,5.1,mb,1.2,usp0002d46,2014-11-07T00:36:19.792Z,"offshore Libertador O'Higgins, Chile",,20,us,us
+1985-03-20T07:45:37.570Z,-32.892,-71.857,33,4.8,mb,1.2,usp0002d2a,2014-11-07T00:36:19.595Z,"offshore Valparaiso, Chile",,4,us,us
+1985-03-20T02:46:24.560Z,-33.416,-71.794,33,5.2,mb,1.2,usp0002d1x,2014-11-07T00:36:19.553Z,"offshore Valparaiso, Chile",,21,us,us
+1985-03-19T20:52:44.590Z,-33.377,-71.959,33,4.7,mb,1.2,usp0002d1s,2014-11-07T00:36:19.543Z,"offshore Valparaiso, Chile",,7,us,us
+1985-03-19T06:30:07.720Z,-33.302,-72.436,33,4.4,mb,1.4,usp0002d17,2014-11-07T00:36:19.485Z,"offshore Valparaiso, Chile",,3,us,us
+1985-03-19T04:41:03.590Z,-33.1,-71.737,57.5,5,mb,0.8,usp0002d15,2014-11-07T00:36:19.467Z,"offshore Valparaiso, Chile",10.5,7,us,us
+1985-03-19T04:01:08.000Z,-33.198,-71.653,42.2,6.7,mw,1.2,usp0002d14,2017-04-26T17:38:43.040Z,"Valparaiso, Chile",3.6,,us,nc
+1985-03-19T00:45:41.270Z,-34.458,-72.261,33,4.6,mb,1.3,usp0002d10,2014-11-07T00:36:19.429Z,"offshore Libertador O'Higgins, Chile",,5,us,us
+1985-03-19T00:33:05.340Z,-34.007,-72.129,33,4.6,mb,1.2,usp0002d0z,2014-11-07T00:36:19.424Z,"offshore Libertador O'Higgins, Chile",,7,us,us
+1985-03-18T18:40:50.110Z,-33.425,-71.907,33,5,mb,1.2,usp0002d0n,2014-11-07T00:36:19.362Z,"offshore Valparaiso, Chile",,14,us,us
+1985-03-18T05:47:46.830Z,-27.761,-66.473,174.1,5,mb,1.2,usp0002d04,2014-11-07T00:36:19.322Z,"Catamarca, Argentina",3.9,21,us,us
+1985-03-18T05:08:50.230Z,-32.556,-71.516,33,5.4,mb,1,usp0002d03,2014-11-07T00:36:19.318Z,"offshore Valparaiso, Chile",,11,us,us
+1985-03-17T19:53:48.050Z,-33.616,-72.685,33,4.4,mb,0.8,usp0002czu,2014-11-07T00:36:19.294Z,"offshore Valparaiso, Chile",,1,us,us
+1985-03-17T12:19:56.820Z,-32.761,-72.095,33,5.1,mb,1.5,usp0002czc,2014-11-07T00:36:19.242Z,"offshore Valparaiso, Chile",,3,us,us
+1985-03-17T10:41:38.480Z,-32.633,-71.551,33,6.7,mw,1.2,usp0002cz9,2017-04-26T17:38:41.780Z,"offshore Valparaiso, Chile",,,us,nc
+1985-03-17T01:36:36.570Z,-33.397,-72.645,33,4.6,mb,1.4,usp0002cyp,2014-11-07T00:36:19.136Z,"offshore Valparaiso, Chile",,2,us,us
+1985-03-16T08:45:20.090Z,-35.143,-72.566,33,5,mb,1.1,usp0002cxt,2014-11-07T00:36:19.021Z,"offshore Maule, Chile",,10,us,us
+1985-03-16T02:21:24.540Z,-33.28,-72.033,33,4.5,mb,1.5,usp0002cxj,2014-11-07T00:36:19.003Z,"offshore Valparaiso, Chile",,2,us,us
+1985-03-15T08:21:11.340Z,-33.814,-71.976,33,3,mb,1,usp0002cwt,2014-11-07T00:36:18.957Z,"offshore Valparaiso, Chile",,1,us,us
+1985-03-14T13:46:16.650Z,-33.302,-72.237,33,2.7,mb,0.7,usp0002cvs,2014-11-07T00:36:18.834Z,"offshore Valparaiso, Chile",,1,us,us
+1985-03-14T09:54:03.510Z,-33.84,-72.716,33,3,mb,0.9,usp0002cvk,2014-11-07T00:36:18.816Z,"offshore Libertador O'Higgins, Chile",,1,us,us
+1985-03-14T03:57:05.290Z,-32.873,-72.162,33,3.7,mb,1.6,usp0002cv1,2014-11-07T00:36:18.765Z,"offshore Valparaiso, Chile",,2,us,us
+1985-03-14T03:44:31.670Z,-32.946,-71.666,8.8,4.7,mb,1.1,usp0002cv0,2014-11-07T00:36:18.763Z,"offshore Valparaiso, Chile",4.7,3,us,us
+1985-03-14T03:27:08.570Z,-32.786,-72.086,33,3.2,mb,1.4,usp0002cuz,2014-11-07T00:36:18.760Z,"offshore Valparaiso, Chile",,1,us,us
+1985-03-14T01:21:38.370Z,-33.379,-72.595,33,4.4,mb,1.2,usp0002cux,2014-11-07T00:36:18.757Z,"offshore Valparaiso, Chile",,1,us,us
+1985-03-13T20:16:18.010Z,-33.224,-72.425,33,3.5,mb,0.6,usp0002cum,2014-11-07T00:36:18.740Z,"offshore Valparaiso, Chile",,1,us,us
+1985-03-13T14:25:06.280Z,-33.136,-72.172,33,4.3,mb,1.5,usp0002cub,2014-11-07T00:36:18.689Z,"offshore Valparaiso, Chile",,2,us,us
+1985-03-13T02:05:19.020Z,-33.404,-73.171,33,3.6,mb,1.5,usp0002ctb,2014-11-07T00:36:18.616Z,"off the coast of Valparaiso, Chile",,1,us,us
+1985-03-13T01:07:54.720Z,-33.837,-72.605,33,3,mb,0.6,usp0002ct8,2014-11-07T00:36:18.605Z,"offshore Libertador O'Higgins, Chile",,1,us,us
+1985-03-12T13:33:14.570Z,-33.409,-72.634,33,4.3,mb,0.8,usp0002csh,2014-11-07T00:36:18.546Z,"offshore Valparaiso, Chile",,3,us,us
+1985-03-12T10:44:00.030Z,-33.277,-72.361,33,5.2,ms,1.2,usp0002csb,2014-11-07T00:36:18.529Z,"offshore Valparaiso, Chile",,1,us,us
+1985-03-12T08:23:17.410Z,-33.072,-72.187,46.7,5.8,mw,1.1,usp0002cs5,2016-11-09T22:03:51.192Z,"offshore Valparaiso, Chile",10.1,,us,hrv
+1985-03-11T11:30:50.220Z,-33.25,-68.162,33,4.6,mb,1.3,usp0002cr6,2014-11-07T00:36:18.357Z,"Mendoza, Argentina",,6,us,us
+1985-03-11T08:15:16.820Z,-33.294,-72.301,33,3.3,mb,1.4,usp0002cqz,2014-11-07T00:36:18.334Z,"offshore Valparaiso, Chile",,1,us,us
+1985-03-11T06:39:14.760Z,-33.283,-71.606,65.8,3.5,mb,1.4,usp0002cqu,2014-11-07T00:36:18.322Z,"Valparaiso, Chile",13.4,1,us,us
+1985-03-11T03:53:20.580Z,-32.888,-71.85,57.1,4.8,mb,1.3,usp0002cqm,2014-11-07T00:36:18.271Z,"offshore Valparaiso, Chile",14.1,3,us,us
+1985-03-10T16:15:21.660Z,-32.971,-71.955,45.7,4.5,mb,1,usp0002cq0,2014-11-07T00:36:18.066Z,"offshore Valparaiso, Chile",9.2,4,us,us
+1985-03-10T15:16:55.420Z,-34.143,-72.614,33,3.6,mb,1.3,usp0002cpx,2014-11-07T00:36:18.044Z,"offshore Libertador O'Higgins, Chile",,1,us,us
+1985-03-10T13:59:45.850Z,-32.866,-72.343,33,3.8,mb,0.9,usp0002cpu,2014-11-07T00:36:18.036Z,"offshore Valparaiso, Chile",,2,us,us
+1985-03-10T08:53:43.070Z,-32.657,-71.667,39.5,5.2,mb,1,usp0002cpc,2014-11-07T00:36:17.982Z,"offshore Valparaiso, Chile",6.5,26,us,us
+1985-03-10T06:58:01.730Z,-33.854,-72.116,33,4.9,mb,1.3,usp0002cpa,2014-11-07T00:36:17.971Z,"offshore Valparaiso, Chile",,4,us,us
+1985-03-10T00:17:11.610Z,-32.857,-71.871,33,3.1,mb,1.3,usp0002cnn,2014-11-07T00:36:17.847Z,"offshore Valparaiso, Chile",,1,us,us
+1985-03-09T20:33:18.810Z,-33.468,-72.461,33,4.3,mb,1.1,usp0002cnd,2014-11-07T00:36:17.824Z,"offshore Valparaiso, Chile",,1,us,us
+1985-03-09T20:10:16.900Z,-33.669,-72.425,33,3.4,mb,0.7,usp0002cn9,2014-11-07T00:36:17.816Z,"offshore Valparaiso, Chile",,1,us,us
+1985-03-09T19:30:41.650Z,-34.015,-72.336,33,3,mb,1.3,usp0002cn2,2014-11-07T00:36:17.798Z,"offshore Libertador O'Higgins, Chile",,1,us,us
+1985-03-09T19:09:46.900Z,-32.413,-71.866,19.5,2.9,mb,1,usp0002cn1,2014-11-07T00:36:17.796Z,"offshore Valparaiso, Chile",8.5,1,us,us
+1985-03-09T18:19:30.570Z,-33.004,-71.887,33,3.7,mb,1.2,usp0002cmy,2014-11-07T00:36:17.788Z,"offshore Valparaiso, Chile",,1,us,us
+1985-03-09T17:26:41.770Z,-33.335,-72.068,33,3.6,mb,1.1,usp0002cmu,2014-11-07T00:36:17.775Z,"offshore Valparaiso, Chile",,1,us,us
+1985-03-09T15:48:01.790Z,-33.687,-72.427,33,3.9,mb,0.9,usp0002cmk,2014-11-07T00:36:17.749Z,"offshore Valparaiso, Chile",,1,us,us
+1985-03-09T15:20:00.200Z,-33.465,-72.095,33,4.7,mb,1.2,usp0002cmh,2014-11-07T00:36:17.745Z,"offshore Valparaiso, Chile",,1,us,us
+1985-03-09T15:11:43.570Z,-33.702,-72.304,33,5.8,ms,1.2,usp0002cmg,2014-11-07T00:36:17.732Z,"offshore Valparaiso, Chile",,1,us,us
+1985-03-09T08:53:10.970Z,-33.185,-73.088,33,3,mb,0.4,usp0002cm7,2014-11-07T00:36:17.621Z,"off the coast of Valparaiso, Chile",,1,us,us
+1985-03-09T05:41:46.500Z,-32.81,-72.147,33,4,mb,1.5,usp0002cm2,2014-11-07T00:36:17.614Z,"offshore Valparaiso, Chile",,2,us,us
+1985-03-08T22:13:21.270Z,-33.291,-72.016,10,2.7,mb,1.2,usp0002ckp,2014-11-07T00:36:17.580Z,"offshore Valparaiso, Chile",,1,us,us
+1985-03-08T19:10:37.390Z,-33.106,-72.471,33,2.8,mb,1.2,usp0002ckk,2014-11-07T00:36:17.563Z,"offshore Valparaiso, Chile",,1,us,us
+1985-03-08T17:11:20.760Z,-33.023,-72.667,33,3,mb,0.5,usp0002ckd,2014-11-07T00:36:17.544Z,"offshore Valparaiso, Chile",,1,us,us
+1985-03-08T17:06:50.790Z,-32.772,-72.418,33,3.1,mb,0.8,usp0002ckc,2014-11-07T00:36:17.542Z,"offshore Valparaiso, Chile",,1,us,us
+1985-03-08T15:34:11.630Z,-33.193,-71.763,33,4.7,mb,1.2,usp0002ckb,2014-11-07T00:36:17.539Z,"offshore Valparaiso, Chile",,4,us,us
+1985-03-08T15:12:07.980Z,-29.755,-70.439,33,3.9,mb,1.2,usp0002cka,2014-11-07T00:36:17.538Z,"Coquimbo, Chile",,1,us,us
+1985-03-08T02:49:23.090Z,-33.026,-71.863,33,5,mb,1,usp0002ck1,2014-11-07T00:36:17.503Z,"offshore Valparaiso, Chile",,24,us,us
+1985-03-08T01:53:36.280Z,-32.847,-73.55,33,3.6,mb,1.4,usp0002cjz,2014-11-07T00:36:17.498Z,"off the coast of Valparaiso, Chile",,1,us,us
+1985-03-07T17:19:25.590Z,-33.624,-73.83,33,3.3,mb,0.8,usp0002cjr,2014-11-07T00:36:17.423Z,"off the coast of Valparaiso, Chile",,1,us,us
+1985-03-07T16:00:10.320Z,-33.861,-72.088,33,4.8,mb,1.3,usp0002cjn,2014-11-07T00:36:17.413Z,"offshore Valparaiso, Chile",,4,us,us
+1985-03-07T14:27:06.280Z,-32.791,-72.007,33,4.6,mb,0.7,usp0002cjh,2014-11-07T00:36:17.402Z,"offshore Valparaiso, Chile",,7,us,us
+1985-03-07T12:16:42.040Z,-33.111,-71.703,33,5,mb,0.8,usp0002cjd,2014-11-07T00:36:17.391Z,"Valparaiso, Chile",,8,us,us
+1985-03-07T10:57:42.940Z,-33.918,-71.919,33,5.3,mb,1,usp0002cja,2014-11-07T00:36:17.361Z,"offshore Valparaiso, Chile",,14,us,us
+1985-03-07T05:22:46.810Z,-33.078,-71.827,33,5.1,mb,1.2,usp0002cj4,2014-11-07T00:36:17.333Z,"offshore Valparaiso, Chile",,11,us,us
+1985-03-07T01:56:05.590Z,-32.989,-72.123,33,5.3,mb,1.1,usp0002cj1,2014-11-07T00:36:17.324Z,"offshore Valparaiso, Chile",,18,us,us
+1985-03-07T00:55:00.290Z,-32.878,-71.878,55.8,5.5,mw,1,usp0002cj0,2016-11-09T22:01:46.643Z,"offshore Valparaiso, Chile",10.1,,us,hrv
+1985-03-06T21:32:10.330Z,-32.935,-71.907,33,4.8,mb,1.4,usp0002chp,2014-11-07T00:36:17.260Z,"offshore Valparaiso, Chile",,8,us,us
+1985-03-06T18:21:32.650Z,-33.434,-72.428,33,4.9,mb,1.3,usp0002chh,2014-11-07T00:36:17.231Z,"offshore Valparaiso, Chile",,6,us,us
+1985-03-06T16:33:50.820Z,-33.451,-71.858,32.4,3.6,mb,1.2,usp0002chg,2014-11-07T00:36:17.229Z,"offshore Valparaiso, Chile",9.8,1,us,us
+1985-03-06T15:24:17.420Z,-33.968,-72.504,33,4.7,mb,1.1,usp0002che,2014-11-07T00:36:17.224Z,"offshore Libertador O'Higgins, Chile",,6,us,us
+1985-03-06T13:32:15.800Z,-33.209,-71.924,53.3,4.3,mb,1.3,usp0002chd,2014-11-07T00:36:17.221Z,"offshore Valparaiso, Chile",13,3,us,us
+1985-03-06T12:44:55.530Z,-33.554,-71.972,33,4.6,mb,1.5,usp0002chc,2014-11-07T00:36:17.218Z,"offshore Valparaiso, Chile",,4,us,us
+1985-03-06T10:16:44.890Z,-34.119,-72.125,33,4.3,mb,1.4,usp0002ch9,2014-11-07T00:36:17.210Z,"offshore Libertador O'Higgins, Chile",,2,us,us
+1985-03-06T08:00:07.910Z,-33.481,-72.377,33,2.8,mb,1,usp0002ch8,2014-11-07T00:36:17.208Z,"offshore Valparaiso, Chile",,1,us,us
+1985-03-06T05:20:00.540Z,-34.325,-71.935,30,4,mb,1.1,usp0002ch1,2014-11-07T00:36:17.157Z,"Libertador General Bernardo O'Higgins, Chile",9.1,2,us,us
+1985-03-06T02:28:46.410Z,-32.906,-72.374,33,4,mb,1,usp0002cgu,2014-11-07T00:36:17.114Z,"offshore Valparaiso, Chile",,2,us,us
+1985-03-06T02:25:45.720Z,-32.488,-71.299,33,3.9,mb,1.9,usp0002cgt,2014-11-07T00:36:17.111Z,"Valparaiso, Chile",,2,us,us
+1985-03-06T02:18:24.140Z,-33.697,-71.345,33,3.3,mb,0.8,usp0002cgs,2014-11-07T00:36:17.108Z,"Valparaiso, Chile",,1,us,us
+1985-03-06T01:55:38.460Z,-33.004,-72.05,33,2.8,mb,1,usp0002cgr,2014-11-07T00:36:17.105Z,"offshore Valparaiso, Chile",,1,us,us
+1985-03-06T00:46:27.490Z,-32.586,-71.759,33,4.2,mb,1,usp0002cgj,2014-11-07T00:36:17.077Z,"offshore Valparaiso, Chile",,2,us,us
+1985-03-05T21:46:31.300Z,-33.182,-72.301,33,5.4,mb,1.1,usp0002cgd,2014-11-07T00:36:17.051Z,"offshore Valparaiso, Chile",,13,us,us
+1985-03-05T21:44:02.080Z,-33.006,-72.017,33,4,mb,1.3,usp0002cgc,2014-11-07T00:36:17.047Z,"offshore Valparaiso, Chile",,2,us,us
+1985-03-05T21:10:47.630Z,-34.114,-72.091,33,4.5,mb,1.5,usp0002cgb,2014-11-07T00:36:17.042Z,"offshore Libertador O'Higgins, Chile",,3,us,us
+1985-03-05T19:50:48.860Z,-33.367,-71.892,33,3,mb,1.3,usp0002cg7,2014-11-07T00:36:17.029Z,"offshore Valparaiso, Chile",,1,us,us
+1985-03-05T18:17:42.860Z,-33.987,-72.176,33,4.4,mb,1.5,usp0002cg4,2014-11-07T00:36:17.014Z,"offshore Libertador O'Higgins, Chile",,3,us,us
+1985-03-05T16:38:12.630Z,-33.81,-71.697,49.1,5.1,mb,1.1,usp0002cg0,2014-11-07T00:36:16.993Z,"Valparaiso, Chile",7.5,18,us,us
+1985-03-05T14:23:07.400Z,-33.405,-72.295,33,4.5,mb,1.5,usp0002cfy,2014-11-07T00:36:16.966Z,"offshore Valparaiso, Chile",,2,us,us
+1985-03-05T14:13:10.710Z,-32.782,-71.809,42.5,5.1,mb,1.1,usp0002cfv,2014-11-07T00:36:16.952Z,"offshore Valparaiso, Chile",10,17,us,us
+1985-03-05T14:08:07.920Z,-33.933,-72.476,33,3.7,mb,1.5,usp0002cfu,2014-11-07T00:36:16.950Z,"offshore Libertador O'Higgins, Chile",,1,us,us
+1985-03-05T12:48:49.610Z,-33.949,-72.142,33,5.1,mb,1.1,usp0002cfq,2014-11-07T00:36:16.899Z,"offshore Libertador O'Higgins, Chile",,14,us,us
+1985-03-05T09:08:54.510Z,-34.205,-71.711,33,5.4,mw,1.3,usp0002cfh,2016-11-09T22:00:52.951Z,"Libertador General Bernardo O'Higgins, Chile",,,us,hrv
+1985-03-05T07:33:37.360Z,-32.666,-71.711,33,5.1,mb,0.8,usp0002cfe,2014-11-07T00:36:16.851Z,"offshore Valparaiso, Chile",,15,us,us
+1985-03-05T07:23:09.690Z,-32.725,-72.01,33,4.2,mb,1.5,usp0002cfd,2014-11-07T00:36:16.848Z,"offshore Valparaiso, Chile",,2,us,us
+1985-03-05T06:58:48.280Z,-33.83,-72.17,33,4.9,mb,1.1,usp0002cfc,2014-11-07T00:36:16.841Z,"offshore Valparaiso, Chile",,10,us,us
+1985-03-05T06:29:23.210Z,-33.849,-72.002,33,4.8,mb,0.9,usp0002cfa,2014-11-07T00:36:16.832Z,"offshore Valparaiso, Chile",,8,us,us
+1985-03-05T06:04:58.880Z,-33.958,-72.395,33,5.2,mb,1.1,usp0002cf9,2014-11-07T00:36:16.820Z,"offshore Libertador O'Higgins, Chile",,15,us,us
+1985-03-05T05:43:35.150Z,-32.828,-72.189,33,4.1,mb,1.4,usp0002cf8,2014-11-07T00:36:16.817Z,"offshore Valparaiso, Chile",,2,us,us
+1985-03-05T04:37:21.710Z,-33.173,-72.15,33,3.1,mb,1.4,usp0002cf5,2014-11-07T00:36:16.809Z,"offshore Valparaiso, Chile",,1,us,us
+1985-03-05T04:18:07.600Z,-32.675,-71.479,33,3.2,mb,0.2,usp0002cf4,2014-11-07T00:36:16.806Z,"offshore Valparaiso, Chile",,1,us,us
+1985-03-05T03:34:50.100Z,-33.454,-71.792,33,3.6,mb,1.5,usp0002cf2,2014-11-07T00:36:16.797Z,"offshore Valparaiso, Chile",,1,us,us
+1985-03-05T00:22:55.400Z,-32.252,-71.566,33,2.6,mb,1.9,usp0002cey,2014-11-07T00:36:16.774Z,"offshore Valparaiso, Chile",,1,us,us
+1985-03-04T23:56:05.450Z,-32.567,-72.252,33,4.4,mb,1.2,usp0002cew,2014-11-07T00:36:16.764Z,"offshore Valparaiso, Chile",,3,us,us
+1985-03-04T21:30:45.670Z,-33.8,-72,33,3.3,mb,0.8,usp0002cet,2014-11-07T00:36:16.738Z,"offshore Valparaiso, Chile",,1,us,us
+1985-03-04T21:07:56.380Z,-33.969,-72.058,33,5.1,mb,1.4,usp0002ces,2014-11-07T00:36:16.732Z,"offshore Libertador O'Higgins, Chile",,3,us,us
+1985-03-04T20:40:36.180Z,-41.671,-73.869,33,3.7,mb,1.1,usp0002cer,2014-11-07T00:36:16.730Z,"offshore Los Lagos, Chile",,1,us,us
+1985-03-04T19:43:16.050Z,-33.546,-71.932,33,5.1,mb,1.2,usp0002cep,2014-11-07T00:36:16.719Z,"offshore Valparaiso, Chile",,10,us,us
+1985-03-04T19:32:16.950Z,-33.789,-71.342,33,4.4,mb,1.4,usp0002cem,2014-11-07T00:36:16.711Z,"Region Metropolitana, Chile",,2,us,us
+1985-03-04T19:03:06.840Z,-32.878,-71.818,33,6.2,mw,1.2,usp0002cek,2016-11-09T22:00:32.332Z,"offshore Valparaiso, Chile",,,us,hrv
+1985-03-04T18:12:40.940Z,-33.913,-72.21,33,5.4,ms,1,usp0002cej,2014-11-07T00:36:16.651Z,"offshore Libertador O'Higgins, Chile",,1,us,us
+1985-03-04T17:19:42.510Z,-33.761,-72.252,33,4.7,mb,1.2,usp0002ceh,2014-11-07T00:36:16.647Z,"offshore Valparaiso, Chile",,4,us,us
+1985-03-04T17:09:58.010Z,-34.079,-72.331,33,5.7,ms,1,usp0002ceg,2014-11-07T00:36:16.633Z,"offshore Libertador O'Higgins, Chile",,1,us,us
+1985-03-04T17:00:09.710Z,-34.221,-72.262,33,5.4,mb,1,usp0002cef,2014-11-07T00:36:16.601Z,"offshore Libertador O'Higgins, Chile",,29,us,us
+1985-03-04T15:01:07.090Z,-33.842,-71.249,40.1,6.3,mw,1,usp0002cec,2017-04-26T17:38:38.678Z,"Region Metropolitana, Chile",,,us,hrv
+1985-03-04T13:49:29.850Z,-33.916,-72.283,29.3,5.7,mw,1.2,usp0002ce9,2016-11-09T22:00:31.201Z,"offshore Libertador O'Higgins, Chile",,,us,hrv
+1985-03-04T13:00:58.430Z,-33.222,-71.973,33,5.4,ms,1.3,usp0002ce8,2014-11-07T00:36:16.438Z,"offshore Valparaiso, Chile",,1,us,us
+1985-03-04T12:59:41.670Z,-32.798,-72.241,33,4.7,mb,1,usp0002ce7,2014-11-07T00:36:16.433Z,"offshore Valparaiso, Chile",,4,us,us
+1985-03-04T12:02:36.260Z,-32.913,-71.756,33,5.1,mb,1,usp0002ce5,2014-11-07T00:36:16.413Z,"offshore Valparaiso, Chile",,13,us,us
+1985-03-04T10:09:18.530Z,-33.821,-71.458,33,4.4,mb,1.3,usp0002ce2,2014-11-07T00:36:16.401Z,"Region Metropolitana, Chile",,5,us,us
+1985-03-04T09:41:46.820Z,-33.331,-71.708,33,4.6,mb,1.1,usp0002ce1,2014-11-07T00:36:16.396Z,"offshore Valparaiso, Chile",,4,us,us
+1985-03-04T09:21:11.130Z,-33.423,-71.685,33,4.8,mb,0.6,usp0002cdy,2014-11-07T00:36:16.374Z,"offshore Valparaiso, Chile",,5,us,us
+1985-03-04T08:39:39.920Z,-34.027,-71.67,33,5.1,mb,1.1,usp0002cdx,2014-11-07T00:36:16.368Z,"Libertador General Bernardo O'Higgins, Chile",,5,us,us
+1985-03-04T08:36:22.360Z,-32.983,-71.467,33,4.7,mb,1.1,usp0002cdw,2014-11-07T00:36:16.361Z,"Valparaiso, Chile",,7,us,us
+1985-03-04T08:33:50.020Z,-34.273,-72.113,33,4.7,mb,1,usp0002cdv,2014-11-07T00:36:16.356Z,"offshore Libertador O'Higgins, Chile",,5,us,us
+1985-03-04T07:45:09.910Z,-32.99,-71.716,33,4.7,mb,1.4,usp0002cdr,2014-11-07T00:36:16.323Z,"offshore Valparaiso, Chile",,5,us,us
+1985-03-04T07:41:26.990Z,-34.057,-71.778,33,5,mb,1.1,usp0002cdq,2014-11-07T00:36:16.315Z,"Libertador General Bernardo O'Higgins, Chile",,8,us,us
+1985-03-04T07:22:35.210Z,-34.138,-71.912,33,4.8,mb,1,usp0002cdp,2014-11-07T00:36:16.304Z,"Libertador General Bernardo O'Higgins, Chile",,4,us,us
+1985-03-04T06:17:51.460Z,-33.142,-71.997,33,6.3,ms,1.1,usp0002cdm,2017-04-26T17:38:38.024Z,"offshore Valparaiso, Chile",,1,us,us
+1985-03-04T06:10:29.330Z,-33.223,-71.918,33,5.6,mb,1,usp0002cdk,2014-11-07T00:36:16.254Z,"offshore Valparaiso, Chile",,16,us,us
+1985-03-04T06:06:56.840Z,-33.825,-71.93,33,6.3,mw,0.8,usp0002cdj,2017-04-26T17:38:37.402Z,"offshore Valparaiso, Chile",,,us,hrv
+1985-03-04T03:32:49.140Z,-32.925,-71.793,33,6.6,ms,1.1,usp0002cdg,2015-05-13T18:53:22.000Z,"offshore Valparaiso, Chile",,3,us,us
+1985-03-04T03:17:54.480Z,-34.115,-71.905,33,6.2,ms,1.1,usp0002cde,2017-04-26T17:38:36.794Z,"Libertador General Bernardo O'Higgins, Chile",,3,us,us
+1985-03-04T02:57:41.780Z,-34.249,-72.095,33,5.1,mb,0.9,usp0002cdd,2014-11-07T00:36:16.100Z,"offshore Libertador O'Higgins, Chile",,9,us,us
+1985-03-04T02:56:09.630Z,-33.244,-72.03,33,5.2,mb,1,usp0002cdc,2014-11-07T00:36:16.091Z,"offshore Valparaiso, Chile",,12,us,us
+1985-03-04T02:29:59.270Z,-34.061,-71.781,33,4.9,mb,1.1,usp0002cda,2014-11-07T00:36:16.076Z,"Libertador General Bernardo O'Higgins, Chile",,5,us,us
+1985-03-04T02:08:03.980Z,-33.147,-72.053,33,5.2,mb,0.9,usp0002cd9,2014-11-07T00:36:16.065Z,"offshore Valparaiso, Chile",,12,us,us
+1985-03-04T01:49:47.390Z,-33.135,-72.043,33,5.4,mb,0.9,usp0002cd8,2014-11-07T00:36:16.046Z,"offshore Valparaiso, Chile",,22,us,us
+1985-03-04T01:16:15.960Z,-33.248,-72.051,33,5.1,mb,0.8,usp0002cd7,2014-11-07T00:36:16.036Z,"offshore Valparaiso, Chile",,6,us,us
+1985-03-04T01:07:55.860Z,-33.306,-72.257,33,5.3,mb,1.1,usp0002cd6,2014-11-07T00:36:16.027Z,"offshore Valparaiso, Chile",,14,us,us
+1985-03-04T00:46:08.090Z,-33.36,-72.043,33,5.2,mb,0.7,usp0002cd5,2014-11-07T00:36:16.016Z,"offshore Valparaiso, Chile",,16,us,us
+1985-03-04T00:40:12.000Z,-33.58,-71.929,33,5.3,mb,0.7,usp0002cd4,2014-11-07T00:36:16.007Z,"offshore Valparaiso, Chile",,6,us,us
+1985-03-04T00:32:21.870Z,-33.207,-71.663,33,7.4,mw,1,usp0002cd3,2017-04-26T17:38:36.157Z,"Valparaiso, Chile",,,us,hrv
+1985-03-04T00:27:45.830Z,-33.141,-71.627,29,5.5,mb,0.8,usp0002cd2,2015-03-20T16:15:03.298Z,"Valparaiso, Chile",,9,us,us
+1985-03-04T00:11:45.410Z,-32.935,-71.477,33,5.9,mb,1,usp0002cd1,2014-11-07T00:36:15.955Z,"Valparaiso, Chile",,16,us,us
+1985-03-03T23:38:31.430Z,-32.738,-71.215,33,6.4,ms,1.3,usp0002cd0,2017-04-26T17:38:34.210Z,"Valparaiso, Chile",,1,us,us
+1985-03-03T22:47:07.280Z,-33.135,-71.871,33,8,mw,1,usp0002ccz,2018-03-12T16:55:28.418Z,"offshore Valparaiso, Chile",,,us,hrv
+1985-03-03T22:46:56.840Z,-33.107,-71.737,33,5.5,mb,1.1,usp0002ccy,2015-07-13T17:02:24.000Z,"Valparaiso, Chile",,13,us,us
+1985-03-02T11:44:58.610Z,-27.121,-71.353,10,5.1,mb,1.3,usp0002cbq,2014-11-07T00:36:15.331Z,"offshore Atacama, Chile",,5,us,us
+1985-03-02T01:00:20.560Z,-33.353,-71.628,33,4.3,mb,1.3,usp0002cbb,2014-11-07T00:36:15.225Z,"Valparaiso, Chile",,1,us,us
+1985-02-27T22:29:05.200Z,-33.204,-71.657,60.2,4.5,mb,1.1,usp0002c9c,2014-11-07T00:36:12.115Z,"Valparaiso, Chile",14.5,2,us,us
+1985-02-27T21:41:51.970Z,-33.228,-71.64,67.9,4.5,mb,1.2,usp0002c9b,2014-11-07T00:36:12.111Z,"Valparaiso, Chile",12,6,us,us
+1985-02-25T05:33:19.510Z,-29.13,-68.673,109.4,4.5,mb,1,usp0002c7b,2014-11-07T00:36:11.898Z,"La Rioja, Argentina",5.3,6,us,us
+1985-02-24T06:04:30.000Z,-33.245,-72.171,33,4.5,mb,1.5,usp0002c6j,2014-11-07T00:36:11.829Z,"offshore Valparaiso, Chile",,1,us,us
+1985-02-24T03:12:43.790Z,-33.124,-69.689,33,5,mb,1.3,usp0002c6d,2014-11-07T00:36:11.815Z,"Mendoza, Argentina",,1,us,us
+1985-02-23T06:01:25.810Z,-33.118,-71.76,26.4,5.1,mb,1,usp0002c5k,2014-11-07T00:36:11.634Z,"offshore Valparaiso, Chile",,15,us,us
+1985-02-23T05:45:54.040Z,-33.077,-71.848,57.6,5.3,ms,0.9,usp0002c5j,2014-11-07T00:36:11.629Z,"offshore Valparaiso, Chile",14.4,1,us,us
+1985-02-23T05:43:40.860Z,-33.319,-71.916,60,4.8,mb,1.2,usp0002c5h,2014-11-07T00:36:11.625Z,"offshore Valparaiso, Chile",16.5,4,us,us
+1985-02-23T05:34:59.620Z,-33.42,-71.994,33,4.7,mb,1.3,usp0002c5g,2014-11-07T00:36:11.623Z,"offshore Valparaiso, Chile",,1,us,us
+1985-02-23T05:26:48.090Z,-33.387,-72.46,33,4.4,mb,1.4,usp0002c5f,2014-11-07T00:36:11.621Z,"offshore Valparaiso, Chile",,1,us,us
+1985-02-23T05:11:18.150Z,-33.256,-71.974,33,4.5,mb,0.9,usp0002c5e,2014-11-07T00:36:11.619Z,"offshore Valparaiso, Chile",,1,us,us
+1985-02-23T04:35:51.550Z,-33.149,-71.879,64,5,mb,1,usp0002c5d,2014-11-07T00:36:11.614Z,"offshore Valparaiso, Chile",11.5,8,us,us
+1985-02-22T19:33:55.440Z,-33.083,-71.74,65.7,5,mb,1.1,usp0002c51,2014-11-07T00:36:11.565Z,"offshore Valparaiso, Chile",11.2,8,us,us
+1985-02-22T19:19:05.460Z,-33.262,-71.878,33,4.8,mb,1.2,usp0002c50,2014-11-07T00:36:11.563Z,"offshore Valparaiso, Chile",,2,us,us
+1985-02-22T19:06:12.910Z,-33.1,-71.802,64.9,4.9,mb,1.1,usp0002c4z,2014-11-07T00:36:11.560Z,"offshore Valparaiso, Chile",13.1,3,us,us
+1985-02-22T18:14:52.040Z,-32.92,-72.298,33,4.8,mb,1.5,usp0002c4y,2014-11-07T00:36:11.557Z,"offshore Valparaiso, Chile",,1,us,us
+1985-02-22T17:09:11.400Z,-33.319,-72.027,33,4.7,mb,1.4,usp0002c4w,2014-11-07T00:36:11.553Z,"offshore Valparaiso, Chile",,2,us,us
+1985-02-22T15:07:59.420Z,-33.222,-72.069,33,4.6,mb,1.5,usp0002c4q,2014-11-07T00:36:11.528Z,"offshore Valparaiso, Chile",,1,us,us
+1985-02-22T12:30:36.020Z,-33.083,-71.927,33,4.4,mb,1,usp0002c4g,2014-11-07T00:36:11.505Z,"offshore Valparaiso, Chile",,2,us,us
+1985-02-22T08:51:17.800Z,-33.326,-72.051,33,4.8,mb,1.3,usp0002c4a,2014-11-07T00:36:11.486Z,"offshore Valparaiso, Chile",,3,us,us
+1985-02-22T06:54:18.890Z,-33.296,-72.057,33,4.5,mb,1.5,usp0002c42,2014-11-07T00:36:11.466Z,"offshore Valparaiso, Chile",,2,us,us
+1985-02-21T22:17:56.940Z,-33.404,-72.054,33,4.8,mb,1.3,usp0002c3n,2014-11-07T00:36:11.433Z,"offshore Valparaiso, Chile",,2,us,us
+1985-02-21T19:23:48.590Z,-33.276,-71.993,33,4.9,mb,1.1,usp0002c3j,2014-11-07T00:36:11.412Z,"offshore Valparaiso, Chile",,12,us,us
+1985-02-21T18:53:11.110Z,-33.205,-71.768,55.9,5.7,mw,1.2,usp0002c3g,2016-11-09T21:55:51.603Z,"offshore Valparaiso, Chile",12.1,,us,hrv
+1985-02-21T11:00:32.100Z,-33.395,-72.086,33,4.3,mb,1.6,usp0002c34,2014-11-07T00:36:11.356Z,"offshore Valparaiso, Chile",,1,us,us
+1985-02-10T11:38:43.060Z,-33.757,-72.39,33,4.9,mb,1.2,usp0002bsd,2014-11-07T00:36:10.043Z,"offshore Valparaiso, Chile",,4,us,us
+1985-02-10T02:58:02.050Z,-33.089,-68.53,5,3.6,mb,1.4,usp0002bs1,2014-11-07T00:36:09.969Z,"Mendoza, Argentina",,2,us,us
+1985-02-09T23:01:25.080Z,-29.457,-71.204,51.5,5.4,mb,1,usp0002brx,2014-11-07T00:36:09.950Z,"Coquimbo, Chile",5.5,24,us,us
+1985-02-08T16:57:03.280Z,-34.06,-70.608,104.6,2.9,mb,0.8,usp0002br0,2014-11-07T00:36:09.804Z,"Libertador General Bernardo O'Higgins, Chile",7.5,1,us,us
+1985-02-02T23:35:42.300Z,-33.324,-70.304,105.3,4.2,mb,1,usp0002bk3,2014-11-07T00:36:08.023Z,"Region Metropolitana, Chile",6.7,1,us,us
+1985-01-31T10:29:34.230Z,-31.516,-69.105,118.3,5.2,mb,0.9,usp0002bh9,2014-11-07T00:36:04.798Z,"San Juan, Argentina",3.3,19,us,us
+1985-01-31T07:16:14.800Z,-31.761,-71.387,57.5,5,mb,1.1,usp0002bh2,2014-11-07T00:36:04.781Z,"Coquimbo, Chile",6.9,16,us,us
+1985-01-28T02:50:44.390Z,-28.406,-67.458,140.7,4.7,mb,1.1,usp0002beu,2014-11-07T00:36:04.420Z,"La Rioja, Argentina",4.6,9,us,us
+1985-01-26T06:25:06.150Z,-33.092,-68.579,5,4.4,mb,1.4,usp0002bd6,2014-11-07T00:36:04.238Z,"Mendoza, Argentina",,1,us,us
+1985-01-26T03:57:20.360Z,-33.07,-68.488,5,5.2,mb,1,usp0002bcz,2014-11-07T00:36:04.223Z,"Mendoza, Argentina",,11,us,us
+1985-01-26T03:37:22.630Z,-32.94,-68.47,5,4.8,mb,0.9,usp0002bcw,2014-11-07T00:36:04.217Z,"Mendoza, Argentina",,3,us,us
+1985-01-26T03:06:57.890Z,-33.053,-68.467,5,6.2,mw,1,usp0002bct,2018-02-15T02:37:12.823Z,"Mendoza, Argentina",,,us,nc
+1985-01-18T15:00:09.080Z,-29.374,-70.793,83.2,6.3,mw,1.2,usp0002b5g,2016-11-09T21:41:54.299Z,"Coquimbo, Chile",,,us,nc
+1985-01-11T09:10:30.640Z,-27.778,-69.345,106.6,4.9,mb,1.3,usp0002ay9,2014-11-07T00:36:01.450Z,"Atacama, Chile",7.6,5,us,us
+1985-01-07T00:56:39.890Z,-35.02,-70.642,129.3,3.8,mb,0.9,usp0002atf,2014-11-07T00:36:00.547Z,"Maule, Chile",11,1,us,us
+1985-01-03T08:09:46.330Z,-33.568,-71.278,69.3,3.7,mb,1.2,usp0002apa,2014-11-07T00:35:58.874Z,"Region Metropolitana, Chile",7,2,us,us
+1985-01-03T01:01:04.560Z,-31.578,-71.45,69.3,4.9,mb,1.2,usp0002anx,2014-11-07T00:35:58.755Z,"Coquimbo, Chile",9,6,us,us
+1985-01-02T18:57:49.580Z,-31.944,-69.289,121.7,3.7,mb,1,usp0002ank,2014-11-07T00:35:58.362Z,"San Juan, Argentina",4.5,2,us,us
+1985-01-01T11:22:02.480Z,-35.351,-70.87,98.3,4.7,mb,0.9,usp0002amc,2014-11-07T00:35:57.298Z,"Maule, Chile",7.1,8,us,us
