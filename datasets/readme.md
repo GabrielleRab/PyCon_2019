@@ -25,3 +25,9 @@ The four included datasets are as follows
 * plant_site_names.csv: Location information for each archaeological site in the study
 * plant_samples.csv: Details of individual samples
 * plant_taxa.csv: Summary data for each plant taxa recorded
+
+### Chilean Earthquakes
+In April 24, 2017 a magnitude 6.9 earthquake occured just west of Valparaiso, Chile, as the result of thrust faulting on or near the subduction zone interface between the Nazca and Pacific tectonic plates. This same section of the plate boundary ruptured in a magnitude 8.0 earthquake in March 1985. These two datasets list all magnitude 2.5+ earthquakes in central Chile in 1985 and 2017. They were obtained from the United States [Geological Survey (USGS) Earthquake Catalog](https://earthquake.usgs.gov/earthquakes/search/). A rectangular region around Valparaiso, Chile was selected using the custom geographic region option. 
+
+The datasets include the time, latitude, longitude, depth, and magnitude for each earthquake that occured. More information about each column in the datasets can be found [here](https://earthquake.usgs.gov/data/comcat/data-eventterms.php).
+
