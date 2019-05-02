@@ -5,3 +5,4 @@ Participants in this mini-sprint will create educational resources that help hig
 
 Contributors:
 * Gabrielle Rabinowitz, AMNH ([GabrielleRab](https://github.com/GabrielleRab))
+Data resource: https://think.cs.vt.edu/corgis/python/index.html
