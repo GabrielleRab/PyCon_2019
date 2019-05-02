@@ -10,7 +10,7 @@ Contributors:
 * Zong-han, Data Science Enginner @ Micron [xingularity](https://github.com/xingularity)
 * Amanpreet Kapoor, Graduate Student, University of Florida [kapooramanpreet](https://github.com/kapooramanpreet)
 * Cody Tessler, Assistant Professor of Mathematics, Southeastern University [cjtessler](https://github.com/cjtessler)
-
+* Kelly Sovacool, Bioinformatics PhD Student, University of Michigan ([kelly-sovacool](https://github.com/kelly-sovacool))
 
 
 Shared resources:
