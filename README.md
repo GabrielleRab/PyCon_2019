@@ -11,7 +11,7 @@ Contributors:
 * Amanpreet Kapoor, Graduate Student, University of Florida ([kapooramanpreet](https://github.com/kapooramanpreet))
 * Cody Tessler, Assistant Professor of Mathematics, Southeastern University ([cjtessler](https://github.com/cjtessler))
 * Kelly Sovacool, Bioinformatics PhD Student, University of Michigan ([kelly-sovacool](https://github.com/kelly-sovacool))
-
+* beth beyer, Exec Director, The Technology Alliance, Chicago, IL ([bbeyer](https://github.com/bbeyer))
 
 Shared resources:
 * Python friendly data resource: https://think.cs.vt.edu/corgis/python/index.html
