@@ -9,6 +9,7 @@ Contributors:
 * Neha Gupta, Graduate Student Duke University  [guptane6](https://github.com/guptane6)
 * Zong-han, Data Science Enginner @ Micron [xingularity](https://github.com/xingularity)
 * Amanpreet Kapoor, Graduate Student, University of Florida [kapooramanpreet](https://github.com/kapooramanpreet)
+* Cody Tessler, Assistant Professor of Mathematics, Southeastern University [cjtessler](https://github.com/cjtessler)
 
 
 
