@@ -8,6 +8,7 @@ Contributors:
 * Jessica Jahnke, Physics Teacher and Girls Who Code Teacher [jejahnke](https://github.com/jejahnke)
 * Neha Gupta, Graduate Student Duke University  [guptane6](https://github.com/guptane6)
 * Zong-han, Data Science Enginner @ Micron [xingularity](https://github.com/xingularity)
+* Amanpreet Kapoor, Graduate Student, University of Florida [kapooramanpreet](https://github.com/kapooramanpreet)
 
 
 
