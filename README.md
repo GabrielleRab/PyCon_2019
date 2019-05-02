@@ -5,8 +5,8 @@ Participants in this mini-sprint will create educational resources that help hig
 
 Contributors:
 * Gabrielle Rabinowitz, AMNH ([GabrielleRab](https://github.com/GabrielleRab))
-* Jessica Jahnke, Physics Teacher and Girls Who Code Teacher https://github.com/jejahnke
-* Neha Gupta, Graduate Student Duke University  https://github.com/guptane6
+* Jessica Jahnke, Physics Teacher and Girls Who Code Teacher [jejahnke](https://github.com/jejahnke)
+* Neha Gupta, Graduate Student Duke University  [guptane6](https://github.com/guptane6)
 Shared resources:
 * Python friendly data resource: https://think.cs.vt.edu/corgis/python/index.html
 * [Data analysis notebooks](https://github.com/chalmerlowe/jarvis_II): lessons 15 to 20 are a dive into pandas and matplotlib. Lesson 20 is focused on using datetimes 
