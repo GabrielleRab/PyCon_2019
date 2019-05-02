@@ -3,6 +3,11 @@ Datasets for PyCon 2019 Education Summit Mini-Sprint: Workbooks that teach Pytho
 
 All datasets in this directory are publically available and sourced from primary research articles or government databases. A description of each data collection can be found below:
 
+### Chilean Earthquakes
+In April 24, 2017 a magnitude 6.9 earthquake occured just west of Valparaiso, Chile, as the result of thrust faulting on or near the subduction zone interface between the Nazca and Pacific tectonic plates. This same section of the plate boundary ruptured in a magnitude 8.0 earthquake in March 1985. These two datasets list all magnitude 2.5+ earthquakes in central Chile in 1985 and 2017. They were obtained from the United States [Geological Survey (USGS) Earthquake Catalog](https://earthquake.usgs.gov/earthquakes/search/). A rectangular region around Valparaiso, Chile was selected using the custom geographic region option. 
+
+The datasets include the time, latitude, longitude, depth, and magnitude for each earthquake that occured. More information about each column in the datasets can be found [here](https://earthquake.usgs.gov/data/comcat/data-eventterms.php).
+
 ### Coral Bleaching:
 These datasets summarize coral reef station data from the [NOAA Coral Reef Watch](https://coralreefwatch.noaa.gov/vs/). The NOAA Coral Reef Watch program uses satellite data to provide current reef environmental conditions to quickly identify areas at risk for coral bleaching. Bleaching is the process by which corals lose the symbiotic algae that give them their distinctive colors. If a coral is severely bleached, disease and death become likely.
 
@@ -26,8 +31,12 @@ The four included datasets are as follows
 * plant_samples.csv: Details of individual samples
 * plant_taxa.csv: Summary data for each plant taxa recorded
 
-### Chilean Earthquakes
-In April 24, 2017 a magnitude 6.9 earthquake occured just west of Valparaiso, Chile, as the result of thrust faulting on or near the subduction zone interface between the Nazca and Pacific tectonic plates. This same section of the plate boundary ruptured in a magnitude 8.0 earthquake in March 1985. These two datasets list all magnitude 2.5+ earthquakes in central Chile in 1985 and 2017. They were obtained from the United States [Geological Survey (USGS) Earthquake Catalog](https://earthquake.usgs.gov/earthquakes/search/). A rectangular region around Valparaiso, Chile was selected using the custom geographic region option. 
+### Sickle Cell Anemia:
+Sickle cell disease (SCD) is a major cause of death for young children in Africa, which the World Health Organization has declared a public health priority. The HbAS (sickle cell) genotype has also been shown to provide resistance against malarial infection, likely explaining its continued prevalence. This dataset provides a summary of individuals in 195 villages in the Gabonese Republic, including information about their Hb genotype and the presence of malaria plasmodium species in their blood.
 
-The datasets include the time, latitude, longitude, depth, and magnitude for each earthquake that occured. More information about each column in the datasets can be found [here](https://earthquake.usgs.gov/data/comcat/data-eventterms.php).
+The data was collected by Eric Elguero and a number of other researchers working on the team of Dr. Franck Prugnolle from the Institut de Recherche pour le Développement, Université de Montpellier, France. This data was published in a paper entitled "Malaria continues to select for sickle cell trait in Central Africa", published in Proc Natl Acad Sci (PNAS) in 2015, which can be read in its entirety [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4460506/).
 
+Aside from the site code, longitude, and latitude, the rest of the columns in the dataset are all numbers of patients. Several column names are explained below:
+* AS: patients with the HbAS (sickle cell) genotype
+* Plasmodium sp: patients with any Plasmodium species present in their blood
+* P falciparum: patients with Plasmodium falciparum, the deadliest species of Plasmodium that cause malaria in humans. These patients are a subset of the "Plasmodium sp" patients
