@@ -16,3 +16,4 @@ Contributors:
 Shared resources:
 * Python friendly data resource: https://think.cs.vt.edu/corgis/python/index.html
 * [Data analysis notebooks](https://github.com/chalmerlowe/jarvis_II): lessons 15 to 20 are a dive into pandas and matplotlib. Lesson 20 is focused on using datetimes 
+* Excellent free online book about teaching with Jupyter Notebook: https://jupyter4edu.github.io/jupyter-edu-book/
